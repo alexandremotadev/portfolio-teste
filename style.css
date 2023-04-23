@@ -72,15 +72,24 @@ main {
 img {
   width: 250px;
   height: 250px;
-  margin: 25px 0px 25px 0px;  
+  margin: 10px 0px 10px 0px;  
   border: 3px solid var(--cor3);
   border-radius: 10px;
   box-shadow: 5px 2px 10px 0px var(--cor3); 
 }
 
+h1 {
+  font-weight: bold;
+  font-size: 2em;
+}
 
 h2 {
+  font-weight: bold;
   margin: 25px 0px 25px 0px;
+}
+
+p{
+  padding: 10px 0px 10px 0px;
 }
 
 a {
