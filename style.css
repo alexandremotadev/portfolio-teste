@@ -21,10 +21,11 @@ header {
   left: 0px;
   width: auto;
   padding: 10px;
-  background: transparent;
+  background: #03090d;
   display: flex;
   justify-content: space-between;
   align-items: center;
+    
 }
 
 .nav a {
