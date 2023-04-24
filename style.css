@@ -99,8 +99,7 @@ p{
 }
 
 a {
-  color:var(--cor1);
-  text-decoration:underline;
+  color:var(--cor1);  
   font-weight: bold;  
 }
 
