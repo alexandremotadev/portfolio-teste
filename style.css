@@ -104,7 +104,7 @@ a {
 }
 
 footer {
-  background-color: var(--cor2);
+  background-color: transparent;
   color: transparent;  
   bottom: 0;
   position:relative;
@@ -113,5 +113,6 @@ footer {
   text-align: center;
   margin-top: 20px;
 }
+
 
 
